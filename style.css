@@ -13,6 +13,8 @@ body {
 
 
 
+.navbar {
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -35,7 +37,7 @@ body {
   height: 28px;
 }
 
-/* Right side icons */
+
 .right {
   display: flex;
   align-items: center;
